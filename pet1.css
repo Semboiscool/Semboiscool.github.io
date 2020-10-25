@@ -1,0 +1,19 @@
+body{
+  background-color: #033e87;
+}
+div {
+width: 100%;
+text-align: center;
+}
+img {
+  border-radius: 20%;
+}
+h1{
+  text-align: center;
+  font-family: fantasy;
+  font-size:50px
+}
+.hoi{
+  color: #edc309;
+  
+}
